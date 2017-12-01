@@ -1,0 +1,74 @@
+body{
+    font-family: "Montserrat", Segoe UI, Verdana, sans-serif;
+    background-color: #D5E3E7;
+}
+h1{font-family: Montserrat-Semibold;
+    color: #73A2B0;
+    letter-spacing: 0.72px;
+    padding: 10px 10px;
+    text-align: center;
+    margin-top: 90px;
+    margin-bottom: 110px;
+    width: 90%
+}
+.header{
+  background-color:   #FFF6F5;  
+}
+.container-fluid{
+padding: 0;  
+}
+.head-image{
+background-image: url("./images/header.png");
+background-position: center;   
+background-repeat: no-repeat}
+.btn{
+    background-color: #F38297;
+    border-radius: 192.38px;
+    color: #FFF6F5;
+    align-items: center;
+    font-family: Montserrat-Medium;
+    font-size: 20px;
+    padding: 15px 30px;
+    margin-bottom: 110px;
+}
+.header-image{
+margin-bottom: 113px;
+}
+.main{
+background-color: #D5E3E7
+}
+h2{
+text-align: center;
+justify-content: center;    
+font-family: Montserrat-Medium;
+font-size: 35px;
+color: #F38297;
+letter-spacing: 0.72px;
+width: 70%;
+}
+.col-md-4{
+    display:flex;
+    justify-content: center; 
+}
+.displayer{
+display: flex;
+justify-content: center;
+flex-direction: column;   
+}
+
+.row{
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+.header{
+    display: flex;
+    flex-direction: column;
+    justify-content: column;
+}
+
+.pad {
+    padding: 10% 0;
+
+}
